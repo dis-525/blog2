@@ -2,4 +2,5 @@ theme: minima
 title: Personal Blog
 description: This is where I share cool stuff about my life
 author: Your Name
-baseurl: /
+baseurl: "/blog2"
+
